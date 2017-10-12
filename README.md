@@ -10,4 +10,4 @@
 
 •	Backend needs: I will be adding backend features at a later time, using firebase.
 
-•	Tools / Languages needs:	HTML, CSS, JavaScript,jQuery,  Bootstrap, GitHub.
+•	Tools / Languages useded:	HTML, CSS, JavaScript,jQuery,  Bootstrap, GitHub.
