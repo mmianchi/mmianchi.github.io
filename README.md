@@ -11,3 +11,9 @@
 •	Backend needs: I will be adding backend features at a later time, using firebase.
 
 •	Tools / Languages used:	HTML, CSS, JavaScript,jQuery,  Bootstrap 4 Beta, GitHub.
+
+
+
+![screen shot 2018-05-27 at 12 01 11 am](https://user-images.githubusercontent.com/29652821/40583324-43a3b55e-6141-11e8-90d5-1385537ad8a9.png)
+![untitled](https://user-images.githubusercontent.com/29652821/40583336-7e6567aa-6141-11e8-917a-db159eed27d2.png)
+![screen shot 2018-05-27 at 12 01 49 am](https://user-images.githubusercontent.com/29652821/40583343-89d680e2-6141-11e8-9518-70cc558e084a.png)
